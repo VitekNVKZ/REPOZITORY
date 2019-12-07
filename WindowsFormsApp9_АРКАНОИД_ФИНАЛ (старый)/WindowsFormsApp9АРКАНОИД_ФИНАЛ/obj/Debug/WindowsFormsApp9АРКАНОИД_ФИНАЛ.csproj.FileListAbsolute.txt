@@ -17,3 +17,22 @@ C:\Users\mixay\Visual Studio 2017\WindowsFormsApp9_АРКАНОИД_ФИНАЛ\W
 C:\Users\mixay\Visual Studio 2017\WindowsFormsApp9_АРКАНОИД_ФИНАЛ\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\Арканоид.pdb
 C:\Users\mixay\Visual Studio 2017\WindowsFormsApp9_АРКАНОИД_ФИНАЛ\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.USERS_FORM.resources
 C:\Users\mixay\Visual Studio 2017\WindowsFormsApp9_АРКАНОИД_ФИНАЛ\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.csproj.ResolveComReference.cache
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\bin\Debug\Арканоид.exe.config
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\bin\Debug\Арканоид.exe
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\bin\Debug\Арканоид.pdb
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.csprojAssemblyReference.cache
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.csproj.ResolveComReference.cache
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.AboutBox1.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.AUTHORISATION.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.LOADING.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.Form1.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.Form2.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.Form3.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.Form6.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.REGISTRSTION.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.Properties.Resources.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.USERS_FORM.resources
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.csproj.GenerateResource.cache
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\WindowsFormsApp9АРКАНОИД_ФИНАЛ.csproj.CoreCompileInputs.cache
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\Арканоид.exe
+D:\Storage\Учеба\Грисман\ГитПапка\REPOZITORY\WindowsFormsApp9_АРКАНОИД_ФИНАЛ (старый)\WindowsFormsApp9АРКАНОИД_ФИНАЛ\obj\Debug\Арканоид.pdb
