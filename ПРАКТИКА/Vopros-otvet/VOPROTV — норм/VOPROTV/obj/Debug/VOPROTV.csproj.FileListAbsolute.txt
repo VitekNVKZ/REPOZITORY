@@ -1,0 +1,36 @@
+C:\Vopros-otvet\VOPROTV\VOPROTV\bin\Debug\VOPROTV.exe.config
+C:\Vopros-otvet\VOPROTV\VOPROTV\bin\Debug\VOPROTV.exe
+C:\Vopros-otvet\VOPROTV\VOPROTV\bin\Debug\VOPROTV.pdb
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.csprojAssemblyReference.cache
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.Form1.resources
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.Properties.Resources.resources
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.csproj.GenerateResource.cache
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.csproj.CoreCompileInputs.cache
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.exe
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.pdb
+C:\Vopros-otvet\VOPROTV\VOPROTV\obj\Debug\VOPROTV.TESTFORM.resources
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.csprojAssemblyReference.cache
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.Form1.resources
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.Properties.Resources.resources
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.TESTFORM.resources
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.csproj.GenerateResource.cache
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.csproj.CoreCompileInputs.cache
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\VOPROTV.AboutBox1.resources
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.exe.config
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.exe
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.pdb
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\Ugadayka_1.0_beta.exe
+C:\Vopros-otvet\VOPROTV — копия\VOPROTV\obj\Debug\Ugadayka_1.0_beta.pdb
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.exe.config
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.exe
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\bin\Debug\Ugadayka_1.0_beta.pdb
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.csprojAssemblyReference.cache
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.AboutBox1.resources
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.Form1.resources
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.TESTFORM.resources
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.csproj.GenerateResource.cache
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\VOPROTV.csproj.CoreCompileInputs.cache
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\Ugadayka_1.0_beta.exe
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\Ugadayka_1.0_beta.pdb
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\Ugadayka.Properties.Resources.resources
+C:\Vopros-otvet\VOPROTV — копия — копия\VOPROTV\obj\Debug\Ugadayka.Form1.resources
